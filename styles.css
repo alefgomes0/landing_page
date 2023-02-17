@@ -1,0 +1,46 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+
+.body {
+    min-width: 0;
+    min-height: 0;
+}
+
+.header {
+    border: 3px solid red;
+    height: 30vh;
+    display: flex;
+    background-color: #1F2937;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.header-top-left {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: auto;
+}
+
+.header-top-right {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    gap: 25px;
+}
+
+.header-middle {
+    border: 2px solid green;
+    display: flex;
+}
+
+.header-middle-left {
+    display: flex;
+    border: 1px solid yellow;
+}
+
+.header-middle-right {
+    display: flex;
+    border: 1px solid white;
+}
