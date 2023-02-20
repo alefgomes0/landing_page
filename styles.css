@@ -150,7 +150,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid red;
     height: 25vh;
     padding: 0 250px;
 }
